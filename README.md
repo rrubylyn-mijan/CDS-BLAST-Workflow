@@ -48,7 +48,7 @@ makeblastdb \
 ### Against Wheat HC CDS
 ```bash
 blastn \
-  -query /directory/this/saved/geneofinterest_cds_gene_sequences/geneofinterest_cds_gene_sequences_wheat \
+  -query /directory/this/saved/geneofinterest_gene_sequences/geneofinterest_cds_gene_sequences_wheat \
   -db wheat_HC_cds \
   -task dc-megablast \
   -evalue 1e-20 \
