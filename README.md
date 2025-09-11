@@ -80,7 +80,7 @@ blastn \
 ```bash
 awk 'BEGIN{OFS="\t"}{print $0,"HC"}' geneofinterest_vs_wheatHC.tab > geneofinterest_vs_wheatHC.tagged.tab
 awk 'BEGIN{OFS="\t"}{print $0,"LC"}' geneofinterest_vs_wheatLC.tab > geneofinterest_vs_wheatLC.tagged.tab
-cat geneofinterest_vs_wheatHC.tagged.tab geneofinterest_vs_wheatLC.tagged.tab > geneofinterest_vs_wheat_HC_LC.all.tab
+cat geneofinterest_vs_wheatHC.tagged.tab geneofinterest_vs_wheatLC.tagged.tab > geneofinterest_vs_wheat_HC_LC.all.txt
 ```
 
 ### Extract top hit per query (by bitscore)
