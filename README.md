@@ -57,7 +57,7 @@ blastn \
   -max_target_seqs 10 \
   -num_threads 16 \
   -outfmt '6 qseqid sseqid pident length mismatch gapopen qstart qend sstart send evalue bitscore qlen slen' \
-  -out geneofinterest_vs_wheatHC.tab
+  -out geneofinterest_vs_wheatHC.txt
 ```
 
 ### Against Wheat LC CDS (optional)
