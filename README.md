@@ -1,6 +1,6 @@
 # Fhb1 CDS vs Glenn CDS BLAST Workflow
 
-This workflow aligns **gene of intereet CDS sequences** against the **Wheat high-confidence (HC) and low-confidence (LC) CDS sets** using BLAST+.  
+This workflow aligns **gene of interest CDS sequences** against the **Wheat high-confidence (HC) and low-confidence (LC) CDS sets** using BLAST+.  
 Designed for HPC environments (Atlas/CCAST), but portable to any BLAST+ installation.
 
 ---
