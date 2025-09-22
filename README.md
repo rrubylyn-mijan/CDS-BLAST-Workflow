@@ -8,7 +8,7 @@ Designed for HPC environments (Atlas/CCAST), but portable to any BLAST+ installa
 ## Input files
 
 - **Queries (Genes of interest CDS)**
-/directory/this/saved/geneofinterest_cds_gene_sequences/geneofinterest_cds_gene_sequences_wheat
+/directory/this/saved/geneofinterest_gene_sequences/geneofinterest_cds_gene_sequences_wheat
 
 - **Wheat high-confidence CDS FASTA**
 /directory/this/saved/8-hc-lc-genes/wheatsubject.high.cds.fa
