@@ -27,8 +27,8 @@ ml blast-plus/2.14.1
 
 ## 1. Create working folder
 ```bash
-mkdir -p /directory/this/saved/blast/geneofinterest_vs_wheat_cds
-cd /directory/this/saved/blast/geneofinterest_vs_wheat_cds
+mkdir -p /directory/this/saved/blast-fhb1-wheat1-wheat2/geneofinterest_vs_wheat_cds
+cd /directory/this/saved/blast-fhb1-wheat1-wheat2/geneofinterest_vs_wheat_cds
 ```
 
 ## 2. Build BLAST databases
